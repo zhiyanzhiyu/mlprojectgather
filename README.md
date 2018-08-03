@@ -27,8 +27,9 @@
 [TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
 [TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
 [I 11:37:52.934 NotebookApp] Serving notebooks from local directory: /Users/BillZhao/Developer/grepos/mlpro/mlprojectgather/mp001
+...
 ```
 
 ## 项目列表
 
-MP001.web-traffic 一个预测WEB服务访问量的项目实例，采用了Scipy,Numpy等。
+MP001.web-traffic 一个预测WEB服务访问量的项目实例，采用了Scipy,Numpy等。[机器学习系统设计 ch01]
